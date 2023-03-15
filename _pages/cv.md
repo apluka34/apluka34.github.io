@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: true
+nav: True
 nav_order: 4
-cv_pdf: resume.pdf
+cv_pdf: #resume.pdf
 ---
