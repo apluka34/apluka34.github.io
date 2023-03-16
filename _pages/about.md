@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there, I'm currently a second-year Bachelor's student at ITMO University, Russia, majoring in Robotics and Artificial Intelligence.
 
-My research and study interests include Machine Learning, Deep Learning in Computer vision and NLP, and currently developing efficient applications that solve real-world problems, such as ASR (Automatic Speech Recognition) and Image Processing.
+My research and study interests include Machine Learning, Deep Learning in Computer Vision and NLP, and currently developing efficient applications that solve real-world problems, such as ASR (Automatic Speech Recognition) and Image Processing.
 
 I am a minimalist. I've always been drawn to the idea of minimalism, both in terms of design and functionality. For me, the perfect solution is one that does exactly what it needs to do, without any extraneous bells and whistles.
 
