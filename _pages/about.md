@@ -32,7 +32,7 @@ This website was formally built in the spring of 2023.
 
 The main purposes of this website are listed here:
 - Discuss the mathematics and the technical details of machine learning, deep learning problems
-- Discess the latest trends and advancements in technology 
+- Discuss the latest trends and advancements in technology 
 - Present my independent technical projects
 - Record my personal achievements
 
