@@ -25,15 +25,15 @@ I am a minimalist. I've always been drawn to the idea of minimalism, both in ter
 ### **About this site**
 
 #### **Personal Story**
-While studying at university, I was mostly trained as a Robotics Engineer and learned about subjects such as control theory and optimization. However, as I delved deeper into the field, I found myself becoming more and more curious about the workings of the human brain and how machines could learn from it. This led me to the field of AI, where I could explore the intersection of neuroscience and technology. I'm grateful that I've also developed a quite strong foundation in mathematics and programming. These skills have allowed me to approach AI research and development.
+While studying at university, I was mostly trained as a Robotics Engineer and learned about subjects such as control theory and optimization. However, as I delved deeper into the field, I found myself becoming more and more curious about the workings of the human brain and how machines could learn from it. This led me to the field of AI, where I could explore the intersection of neuroscience and technology. I'm grateful that I've also developed a quite strong foundation in mathematics and programming. These motivations also led me to create this site, where I can store my own knowledge and share it with the community.
 
 #### **Site information**
-This website was formally built in the spring of 2023.
+This site was formally built in the spring of 2023.
 
-The main purposes of this website are listed here:
-- Discuss the mathematics and the technical details of machine learning, deep learning problems
+The main purposes of this site are listed here:
+- Discuss the mathematics and the technical details of mathematics, machine learning, deep learning problems
 - Discuss the latest trends and advancements in technology 
-- Present my independent technical projects
+- Present my projects
 - Record my personal achievements
 
 
