@@ -32,7 +32,7 @@ While studying at university, I was mostly trained as a Robotics Engineer and le
 This site was formally built in the spring of 2023.
 
 The main purposes of this site are listed here:
-- Discuss the mathematics and the technical details of mathematics, machine learning, deep learning problems
+- Discuss the technical details of mathematics, machine learning, deep learning problems
 - Discuss the latest trends and advancements in technology 
 - Present my projects
 - Record my personal achievements
