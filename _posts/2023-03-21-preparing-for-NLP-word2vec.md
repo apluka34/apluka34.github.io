@@ -104,6 +104,7 @@ So I will give the step-by-step in details from the input to the output through 
 - **N** is the dimensionality of the word embeddings
 - **W** is the embedding matrix of shape (V, N)
 - **C** is the context matrix of shape (N, V)
+
 2) The weight matrix and the output of hidden layer
 - The input of word "beautiful" with dimension of (1, V)
 - Then multiply with a weight matrix of (V, N), it produces the output of dimension: (1,V) * (V,N) = (1, N). This is exactly of dimension of word embedding we want. 
@@ -118,11 +119,13 @@ So I will give the step-by-step in details from the input to the output through 
 </div>
 
 - Here we can see that each row of the weight matrix works like the word embedding for the one-hot encoding vector input, so the out put vector after doing the multiplication is already the the word embedding vector that we want.
+
 3) The output layer
-- After getting the output of hidden layer with the dimension of (1, N), we have to multiply this with the context matrix of dimension (N, V) to get back to the size of word in vocabulary: (1, N) . (N, V) = (1, V)
+- After getting the output of hidden layer with the dimension of (1, N), we have to multiply this output with the context matrix of dimension (N, V) to get back to the size of word in vocabulary: (1, N) . (N, V) = (1, V)
 - Then we use softmax function to display the vector related to probabilities of all words in the vocab. 
 - Imagine that we have to calculate the loss with the true label be one-hot encoding vector like we have in the initial step. 
 - Then we do several steps related to calculating the gradient, update parameter, and doing the new step.
+
 4) The last result
 
 - After several steps, we will get the best weight matrix.
