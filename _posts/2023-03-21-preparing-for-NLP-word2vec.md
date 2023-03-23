@@ -36,7 +36,7 @@ toc:
 - Understanding the motivation of using neural network to create word embeddings.
 - Understanding the dataset and how predicting neighboring-word model works.
 - The row of updating weight matrix in the hidden layer is the word embedding corresponding to the word in the vocabulary.
-- Should continue reading the the next post of **Negative Sampling** and **Comparison of Skipgram and CBOW**.
+- Continue reading the next post of **Negative Sampling** and **Comparison of Skipgram and CBOW**.
 
 
 ## Introduction
