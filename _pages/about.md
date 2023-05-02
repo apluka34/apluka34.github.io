@@ -6,8 +6,8 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: profile_avt.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile_avt2.png
+  image_circular: false # crops the image to make it circular
   # address: 
 
 
